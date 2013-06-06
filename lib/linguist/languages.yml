@@ -937,6 +937,10 @@ OpenEdge ABL:
   - openedge
   - abl
   primary_extension: .p
+  extensions:
+  - .cls
+  - .w
+  - .i
 
 PHP:
   type: programming
